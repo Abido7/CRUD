@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #00334e;
+}
+.table {
+    color: #fff;
+}
+.alert {
+    display: none;
+}
